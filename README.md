@@ -1,0 +1,2 @@
+# paralar-katla
+paralarıkatla
